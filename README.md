@@ -26,7 +26,6 @@ Finally, pressing "Confirming reservation" button will confirm the resrvation an
 
 The Gift Card Purchase feature allows users to buy gift cards for The Gourmet restaurant, providing a convenient way to share the dining experience with friends and loved ones. 
 In this, we try to implement this feature by creating a database for storing gift card purchasing information and forms for purchasing gift cards for customers. as well as processing those data in our database and giving customers feedback.
-Github link:https://github.com/findalsi/web_project_group22/tree/main
 
 ### Feature 3
 
@@ -38,7 +37,7 @@ shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_gro
 ### Feature 4
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
- The user have to fill email address and first name.
+ The user have to fill first name, Last name, Email address and Phone number.
 
 
 ## Database Tables
