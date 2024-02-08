@@ -17,7 +17,9 @@
 
 
 ### Feature 1
+User can find this feature in the Home page of the website in "make a reservation" section. User can make reservation by using this feature. This allows user to select a date, time and number of people of arriving. Additionally the user have to fill a form by entering First name, Last name, Phone number and Email adress. Selecting an ocacation and Adding a special request are optional in the form.
 
+Finally, pressing "Confirming reservation" button will confirm the resrvation and store tha data in the database.
 
 
 ### Feature 2
@@ -31,7 +33,8 @@ Vantaa restaurant week option allows customers to check the discounted menu opti
 
 ### Feature 4
 
-The feature sign me up allows to register by customers to get notification of our restuarant offers and promotions.
+The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
+ The user have to fill email address and first name.
 
 
 ## Database Tables
