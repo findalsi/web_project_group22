@@ -47,7 +47,7 @@ include '../web_project_group22/layout/header.php'; ?>
            </div>
            <div class="col-sm-5">
                 <label for="date">Date:</label>
-                <input type="date" class="form-control" id="date" required>
+                <input type="date" class="form-control" id="date" name="date" required>
             </div>
             <div class="col-sm-5">
                 <label for="time">Time:</label>
