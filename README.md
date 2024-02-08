@@ -32,6 +32,9 @@ Github link:https://github.com/findalsi/web_project_group22/tree/main
 
 Vantaa restaurant week option allows customers to check the discounted menu options offered for that particular period. By creating forms we let customers to reserve a table by inputting name, email, date, time and the number of people come to dine at the hotel premises. Then the inputted data will be updated in the database for later reference.
 
+github link - https://github.com/findalsi/web_project_group22/tree/main
+shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
+
 ### Feature 4
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
