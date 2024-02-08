@@ -34,7 +34,8 @@ In this, we try to implement this feature by creating a database for storing gif
 
 ### Feature 4
 
-The feature sign me up allows to register by customers to get notification of our restuarant offers and promotions.
+The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
+ The user have to fill email address and first name.
 
 
 ## Database Tables
