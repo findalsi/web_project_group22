@@ -1,7 +1,7 @@
 <?php
 $title ="The Gourmet";
 
-include "header.php" ?>
+include '../web_project_group22/layout/header.php'; ?>
 
   <!-- Carousel -->
 <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -160,4 +160,4 @@ include "header.php" ?>
 </div>
 
 <?php
-include "footer.php"  ?>
+include '../web_project_group22/layout/footer.php';  ?>
