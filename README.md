@@ -35,6 +35,8 @@ github link - https://github.com/findalsi/web_project_group22/tree/main
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
 
+database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
+
 ### Feature 4
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
