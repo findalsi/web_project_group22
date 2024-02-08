@@ -27,8 +27,7 @@ In this, we try to implement this feature by creating a database for storing gif
 
 ### Feature 3
 
-
-
+Vantaa restaurant week option allows customers to check the discounted menu options offered for that particular period. By creating forms we let customers to reserve a table by inputting name, email, date, time and the number of people come to dine at the hotel premises. Then the inputted data will be updated in the database for later reference.
 
 ### Feature 4
 
