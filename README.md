@@ -18,7 +18,9 @@
 
 ### Feature 1
 
+User can find this feature in the Home page of the website in "make a reservation" section. User can make reservation by using this feature. This allows user to select a date, time and number of people of arriving. Additionally the user have to fill a form by entering First name, Last name, Phone number and Email adress. Selecting an ocacation and Adding a special request are optional in the form.
 
+Finally, pressing "Confirming reservation" button will confirm the resrvation and store tha data in the database.
 
 ### Feature 2
 
