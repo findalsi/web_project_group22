@@ -30,9 +30,10 @@ Github link:https://github.com/findalsi/web_project_group22/tree/main
 
 ### Feature 3
 
-Vantaa restaurant week option allows customers to check the discounted menu options offered for that particular period. By creating forms we let customers to reserve a table by inputting name, email, date, time and the number of people come to dine at the hotel premises. Then the inputted data will be updated in the database for later reference.
+Vantaa restaurant week allows customers to book discounted menu options offered for that particular time period. By creating a form we let customers to reserve tables by inputting name, email, date, time and the number of people come to dine in at the hotel premises. Then the inputted data will be stored in a database for later reference.
 
 github link - https://github.com/findalsi/web_project_group22/tree/main
+
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
 
 ### Feature 4
