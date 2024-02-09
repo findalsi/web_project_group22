@@ -26,7 +26,9 @@ Finally, pressing "Confirming reservation" button will confirm the resrvation an
 
 The Gift Card Purchase feature allows users to buy gift cards for The Gourmet restaurant, providing a convenient way to share the dining experience with friends and loved ones. 
 In this, we try to implement this feature by creating a database for storing gift card purchasing information and forms for purchasing gift cards for customers. as well as processing those data in our database and giving customers feedback.
-Github link:https://github.com/findalsi/web_project_group22/tree/main
+GithubLink:https://github.com/findalsi/web_project_group22/tree/main
+https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
+shelllink for feature: http://shell.hamk.fi/~dalsi23000/crud1/
 
 ### Feature 3
 
