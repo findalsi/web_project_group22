@@ -21,26 +21,30 @@ User can find this feature in the Home page of the website in "make a reservatio
 
 Finally, pressing "Confirming reservation" button will confirm the resrvation and store tha data in the database.
 
+shell.hamk.fi - http://shell.hamk.fi/~madusha23000/mvd_Tasks/web_project_group22/feature1.php
+
 
 ### Feature 2
 
 The Gift Card Purchase feature allows users to buy gift cards for The Gourmet restaurant, providing a convenient way to share the dining experience with friends and loved ones. 
 In this, we try to implement this feature by creating a database for storing gift card purchasing information and forms for purchasing gift cards for customers. as well as processing those data in our database and giving customers feedback.
-GithubLink:https://github.com/findalsi/web_project_group22/tree/main
-https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
-shelllink for feature: http://shell.hamk.fi/~dalsi23000/crud1/
+Github link:https://github.com/findalsi/web_project_group22/tree/main
+shell link:http://shell.hamk.fi/pma/index.php?route=/database/structure&server=1&db=wp_dalsi23000&table=
 
 ### Feature 3
 
-Vantaa restaurant week option allows customers to check the discounted menu options offered for that particular period. By creating forms we let customers to reserve a table by inputting name, email, date, time and the number of people come to dine at the hotel premises. Then the inputted data will be updated in the database for later reference.
+Vantaa restaurant week allows customers to book discounted menu options offered for that particular time period. By creating a form we let customers to reserve tables by inputting name, email, date, time and the number of people come to dine in at the hotel premises. Then the inputted data will be stored in a database for later reference.
 
 github link - https://github.com/findalsi/web_project_group22/tree/main
+
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
+
+database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
 ### Feature 4
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
- The user have to fill email address and first name.
+ The user have to fill first name, Last name, Email address and Phone number.
 
 
 ## Database Tables
