@@ -4,6 +4,8 @@ include '../web_project_group22/layout/header.php';
 
 ?>
 
+<br><br><br>
+<h1>Make a Resevation:</h1>
 <h2>Input Your Information Below:</h2>
 <form name="form1" method="post" action="action.php">
     <div class="form-group">
@@ -82,7 +84,7 @@ include '../web_project_group22/layout/header.php';
             </div>
             
         </div>
-    </div>
+    </div><br> <br>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
 
