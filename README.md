@@ -52,9 +52,10 @@ The feature sign me up allows to register by users to get notification of The Go
 
 List the database tables that are part of your project. 
 
-- Table 1 (Created By): Table Name 
+- Table 1 (Created By Madusha Dissanayaka): reservations
 - Table 2 (Created By Dalsi Samarathunga): gift_cards 
-- Table 3 (Created By): Table Name 
+- Table 3 (Created By Kasunki Samarasekara): Restaurant_week_reservation
+- Table 4 (Created By Haneeta Senadheera): Sign Up
 
 > Include the ER Diagram of the database. 
 

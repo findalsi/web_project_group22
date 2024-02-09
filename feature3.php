@@ -70,6 +70,5 @@ include '../web_project_group22/layout/header.php'; ?>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
 
-
 <?php
 include '../web_project_group22/layout/footer.php';  ?>
