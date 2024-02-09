@@ -49,7 +49,7 @@ CREATE TABLE `Restaurant_week_reservation` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
-# table 4 : Haneeta senadheera
+# table 4 : Haneeta Senadheera
 
 '''sql
 
