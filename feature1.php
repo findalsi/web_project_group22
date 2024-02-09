@@ -5,8 +5,7 @@ include '../web_project_group22/layout/header.php';
 ?>
 
 <br><br><br>
-<h1>Make a Resevation:</h1>
-<h2>Input Your Information Below:</h2>
+<h1>Make a Resevation</h1>
 <form name="form1" method="post" action="action.php">
     <div class="form-group">
         <div class="row">
