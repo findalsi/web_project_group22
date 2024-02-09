@@ -19,7 +19,7 @@ CREATE TABLE `reservations` (
 
 ''''
 
-# table 3 : Dalsi Samarathunga
+# table 2 : Dalsi Samarathunga
 
 '''sql
 
@@ -32,12 +32,10 @@ CREATE TABLE `gift_cards` (
   `purchase_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-<<<<<<< Updated upstream
-''''
-=======
->>>>>>> Stashed changes
 
+# table 3 : Kasunki Samarasekara
 
+'''sql
 
 CREATE TABLE `Restaurant_week_reservation` (
   `table_no` int NOT NULL,
@@ -51,7 +49,9 @@ CREATE TABLE `Restaurant_week_reservation` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
+# table 4 : Haneeta senadheera
 
+'''sql
 
 CREATE TABLE `Sign Up` (
   `cus_number` int NOT NULL,
