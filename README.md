@@ -21,6 +21,8 @@ User can find this feature in the Home page of the website in "make a reservatio
 
 Finally, pressing "Confirming reservation" button will confirm the resrvation and store tha data in the database.
 
+github link - https://github.com/Madusha-Virajika-Dissanayaka/src/tree/main/mvd_Tasks/my_feature1 
+
 shell.hamk.fi - http://shell.hamk.fi/~madusha23000/mvd_Tasks/web_project_group22/feature1.php
 
 
@@ -36,6 +38,8 @@ shell link:http://shell.hamk.fi/pma/index.php?route=/database/structure&server=1
 Vantaa restaurant week allows customers to book discounted menu options offered for that particular time period. By creating a form we let customers to reserve tables by inputting name, email, date, time and the number of people come to dine in at the hotel premises. Then the inputted data will be stored in a database for later reference.
 
 github link - https://github.com/findalsi/web_project_group22/tree/main
+
+individual github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/crud1
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
 
