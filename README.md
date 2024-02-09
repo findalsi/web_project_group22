@@ -21,6 +21,8 @@ User can find this feature in the Home page of the website in "make a reservatio
 
 Finally, pressing "Confirming reservation" button will confirm the resrvation and store tha data in the database.
 
+shell.hamk.fi - http://shell.hamk.fi/~madusha23000/mvd_Tasks/web_project_group22/feature1.php
+
 
 ### Feature 2
 
