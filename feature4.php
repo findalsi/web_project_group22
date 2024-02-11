@@ -1,5 +1,5 @@
 <?php
-$title = "feature 4";
+$title = "sign me up";
 include '../web_project_group22/layout/header.php';
 
 
@@ -23,21 +23,16 @@ include '../web_project_group22/layout/header.php';
     <div class="form-group">
         <div class="row">
             <div class="col">
-                <label for="city">City:</label>
-                <input type="text" class="form-control" id="city" placeholder="Enter your city" name="city" required>
+                <label for="email">email:</label>
+                <input type="text" class="form-control" id="email" placeholder="Enter your email" name="email" required>
             </div>
+            <div class="form-group">
+        <div class="row">
             <div class="col">
-                <label for="groupid">Group ID:</label>
-                <select class="form-control" id="groupid" name="groupid">
-                    <option value="BBCAP19">BBCAP19</option>
-                    <option value="BBCAP20">BBCAP20</option>
-                    <option value="BBCAP21">BBCAP21</option>
-                    <option value="BBCAP22">BBCAP22</option>
-                    <option value="Others">Others</option>
-                </select>
+                <label for="phone_number">Phone Number:</label>
+                <input type="number" class="form-control" id="phone_number" placeholder="Enter your Phone Number" name="phone_number" required>
             </div>
-        </div>
-    </div>
+        
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
 
