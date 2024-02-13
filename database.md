@@ -62,7 +62,7 @@ CREATE TABLE `Sign Up` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
-# table 4 : Kasunki Samarasekara
+# table 5 : Kasunki Samarasekara
 
 '''sql
 

@@ -11,9 +11,9 @@
 
 1. Feature 1 (Madusha Virajika Dissanayaka): Reservation tables
 2. Feature 2 (Kankani Pathirannehelage Dalsi Samarathunga): Purchasing gift cards
-3. Feature 3 (Ketiyape Kasunki Samarasekara): Restaurant week reservation
+3. Feature 3 (Kasunki Samarasekara): Restaurant week reservation
 4. Feature 4 (Ganegama Manage Haneeta Dilki): Sign up to newsletters
-5. Feature 5 (Ketiyape Kasunki Samarasekara): Order_online
+5. Feature 5 (Kasunki Samarasekara): Order_online
 
 
 
@@ -61,7 +61,6 @@ github link - https://github.com/findalsi/web_project_group22/blob/main/feature5
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature5.php
 
-shell database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
 
 
