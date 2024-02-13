@@ -43,9 +43,9 @@ github link - https://github.com/findalsi/web_project_group22/blob/main/feature3
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
 
-individual github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/crud1
+database github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/crud1
 
-database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
+shell database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
 ### Feature 4
 
@@ -60,6 +60,8 @@ This feature allows users to order via online and get food delivered to their to
 github link - https://github.com/findalsi/web_project_group22/blob/main/feature5.php
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature5.php
+
+shell database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
 
 
