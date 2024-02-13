@@ -50,12 +50,12 @@ shell database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasun
 ### Feature 4
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
- The user have to fill first name, Last name, Email address and Phone number.
+ The user have to fill first name, Last name, Email address and Phone number. 
 
 
 ### Feature 5
 
-This feature allows users to order via online and get food delivered to their to doorsteps on the selected date and time. 
+This feature allows users to order via online and get food delivered to their doorsteps on the selected date and time. This form will display a message saying "Your order has been taken" When the customer press the submit button after inputting data into the relevant fields. 
 
 github link - https://github.com/findalsi/web_project_group22/blob/main/feature5.php
 
