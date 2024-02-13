@@ -13,6 +13,7 @@
 2. Feature 2 (Kankani Pathirannehelage Dalsi Samarathunga): Purchasing gift cards
 3. Feature 3 (Ketiyape Kasunki Samarasekara): Restaurant week reservation
 4. Feature 4 (Ganegama Manage Haneeta Dilki): Sign up to newsletters
+5. Feature 5 (Ketiyape Kasunki Samarasekara): Order_online
 
 
 
@@ -36,13 +37,13 @@ shell link:http://shell.hamk.fi/pma/index.php?route=/database/structure&server=1
 
 ### Feature 3
 
-Vantaa restaurant week allows customers to book discounted menu options offered for that particular time period. By creating a form we let customers to reserve tables by inputting name, email, date, time and the number of people come to dine in at the hotel premises. Then the inputted data will be stored in a database for later reference.
+Vantaa restaurant week allows customers to book discounted menu options offered for that particular time period. By creating a form we let customers to reserve tables by inputting name, email, date, time and the number of people come to dine in at the hotel premises. Then the input data will be stored in a database for later reference.
 
-github link - https://github.com/findalsi/web_project_group22/tree/main
-
-individual github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/crud1
+github link - https://github.com/findalsi/web_project_group22/blob/main/feature3.php
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
+
+individual github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/crud1
 
 database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
@@ -50,6 +51,17 @@ database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki2300
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
  The user have to fill first name, Last name, Email address and Phone number.
+
+
+### Feature 5
+
+This feature allows users to order via online and get food delivered to their to doorsteps on the selected date and time. 
+
+github link - https://github.com/findalsi/web_project_group22/blob/main/feature5.php
+
+shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature5.php
+
+
 
 
 ## Database Tables
@@ -60,6 +72,8 @@ List the database tables that are part of your project.
 - Table 2 (Created By Dalsi Samarathunga): gift_cards 
 - Table 3 (Created By Kasunki Samarasekara): Restaurant_week_reservation
 - Table 4 (Created By Haneeta Senadheera): Sign Up
+- Table 5 (Created By Kasunki Samarasekara): Order_online
+
 
 > Include the ER Diagram of the database. 
 
