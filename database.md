@@ -60,3 +60,20 @@ CREATE TABLE `Sign Up` (
   `email` varchar(50) NOT NULL,
   `phone_number` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+# table 5 : Kasunki Samarasekara
+
+'''sql
+
+CREATE TABLE `Order_online` (
+  `order_no` int NOT NULL,
+  `name` varchar(50) NOT NULL,
+  `address` varchar(50) NOT NULL,
+  `email` varchar(50) NOT NULL,
+  `contact_number` int NOT NULL,
+  `delivery_date` date NOT NULL,
+  `delivery_time` time NOT NULL,
+  `menu` varchar(50) NOT NULL,
+  `number_of_portions` int NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
