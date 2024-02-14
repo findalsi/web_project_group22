@@ -1,6 +1,6 @@
 <?php
 $title = "sign me up";
-include '../web_project_group22/layout/header.php';
+include '../my_project/layout/header.php';
 
 
 
@@ -37,5 +37,5 @@ include '../web_project_group22/layout/header.php';
 </form>
 
 <?php
-include '../web_project_group22/layout/footer.php';
+include '../my_project/layout/footer.php';
 ?>
