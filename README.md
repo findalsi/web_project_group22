@@ -83,7 +83,7 @@ List the database tables that are part of your project.
 > Include the ER Diagram of the database. 
 
 
-![ER](web_project_group22/images/ER_diagram.PNG)
+![ER](images/ER_diagram.PNG)
 
 
 
