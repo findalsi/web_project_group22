@@ -70,7 +70,9 @@ List the database tables that are part of your project.
 List and describe any forms that have been created as part of your project. Include details about the purpose of each form and any validation logic.
 
 - Form 1 (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi). | Validations Applied
-- Form 2: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
+- Form 2: (Created By Dalsi Samarathunga): Form Name:Gift Card Purchase Form 
+        Link to the related code file (github) https://github.com/findalsi/src/blob/main/dalsi_tasks/crud1/index.php | 
+        Link to the form (shell.hamk.fi).http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/  | Validations Applied
 - Form 3: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
 
 
