@@ -33,7 +33,7 @@ The Gift Card Purchase feature allows users to buy gift cards for The Gourmet re
 In this, we try to implement this feature by creating a database for storing gift card purchasing information and forms for purchasing gift cards for customers. as well as processing those data in our database and giving customers feedback.
 Git link: https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
 Github link:https://github.com/findalsi/web_project_group22/tree/main
-shell link:http://shell.hamk.fi/pma/index.php?route=/database/structure&server=1&db=wp_dalsi23000&table=
+shell link:http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/
 
 ### Feature 3
 
