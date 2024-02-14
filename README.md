@@ -78,7 +78,7 @@ List the database tables that are part of your project.
 
 > Include the ER Diagram of the database. 
 
----
+![Alt Text](images/ER%20diagram.PNG) 
 
 ## Created Forms
 
