@@ -31,9 +31,13 @@ shell.hamk.fi - http://shell.hamk.fi/~madusha23000/mvd_Tasks/web_project_group22
 
 The Gift Card Purchase feature allows users to buy gift cards for The Gourmet restaurant, providing a convenient way to share the dining experience with friends and loved ones. 
 In this, we try to implement this feature by creating a database for storing gift card purchasing information and forms for purchasing gift cards for customers. as well as processing those data in our database and giving customers feedback.
-Git link: https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
+
+github link: https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
+
+shell link:http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/
+
 Github link:https://github.com/findalsi/web_project_group22/tree/main
-shell link:http://shell.hamk.fi/pma/index.php?route=/database/structure&server=1&db=wp_dalsi23000&table=
+
 
 ### Feature 3
 
@@ -88,7 +92,9 @@ List the database tables that are part of your project.
 List and describe any forms that have been created as part of your project. Include details about the purpose of each form and any validation logic.
 
 - Form 1 (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi). | Validations Applied
-- Form 2: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
+- Form 2: (Created By Dalsi Samarathunga): Form Name:Gift Card Purchase Form 
+        Link to the related code file (github) https://github.com/findalsi/src/blob/main/dalsi_tasks/crud1/index.php | 
+        Link to the form (shell.hamk.fi).http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/  | Validations Applied
 - Form 3: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
 
 
