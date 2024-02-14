@@ -47,9 +47,6 @@ github link - https://github.com/findalsi/web_project_group22/blob/main/feature3
 
 shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
 
-database github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/crud1
-
-shell database - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
 ### Feature 4
 
@@ -92,11 +89,22 @@ List the database tables that are part of your project.
 List and describe any forms that have been created as part of your project. Include details about the purpose of each form and any validation logic.
 
 - Form 1 (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi). | Validations Applied
+
 - Form 2: (Created By Dalsi Samarathunga): Form Name:Gift Card Purchase Form 
         Link to the related code file (github) https://github.com/findalsi/src/blob/main/dalsi_tasks/crud1/index.php | 
         Link to the form (shell.hamk.fi).http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/  | Validations Applied
-- Form 3: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
 
+- Form 3: (Created By Kasunki Samarasekara): Form Name: reservation 
+          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature3.php
+          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature3.php
+          Validations Applied - Yes
+
+- Form 4: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi). | Validations Applied
+
+- Form 5: (Created By Kasunki Samarasekara): Form Name: order_online 
+          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature5.php
+          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature5.php
+          Validations Applied - Yes
 
 ---
 
@@ -105,7 +113,15 @@ List and describe any forms that have been created as part of your project. Incl
 List any tables that you have created in the project work
 
 - Table 1 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
+
 - Table 2 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
-- Table 3 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
+
+- Table 3 (Created By Kasunki Samarasekara): Table Name - Restaurant_week_reservation
+  Link to the related code file (github) 
+  Link to the table (shell.hamk.fi) - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
+
+- Table 4 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi)
+
+- Table 5 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi)
 
 ---
