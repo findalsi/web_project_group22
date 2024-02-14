@@ -31,9 +31,11 @@ shell.hamk.fi - http://shell.hamk.fi/~madusha23000/mvd_Tasks/web_project_group22
 
 The Gift Card Purchase feature allows users to buy gift cards for The Gourmet restaurant, providing a convenient way to share the dining experience with friends and loved ones. 
 In this, we try to implement this feature by creating a database for storing gift card purchasing information and forms for purchasing gift cards for customers. as well as processing those data in our database and giving customers feedback.
-Git link: https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
-Github link:https://github.com/findalsi/web_project_group22/tree/main
+
+github link: https://github.com/findalsi/src/tree/main/dalsi_tasks/crud1
 shell link:http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/
+Github link:https://github.com/findalsi/web_project_group22/tree/main
+
 
 ### Feature 3
 
