@@ -117,8 +117,8 @@ List any tables that you have created in the project work
 - Table 2 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
 
 - Table 3 (Created By Kasunki Samarasekara): Table Name - Restaurant_week_reservation
-  Link to the related code file (github) 
-  Link to the table (shell.hamk.fi) - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
+Link to the related code file (github) 
+Link to the table (shell.hamk.fi) - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
 
 - Table 4 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi)
 
