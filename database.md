@@ -53,13 +53,14 @@ CREATE TABLE `Restaurant_week_reservation` (
 
 '''sql
 
-CREATE TABLE `Sign Up` (
+CREATE TABLE `sign_me_up` (
   `cus_number` int NOT NULL,
   `first_name` varchar(50) NOT NULL,
   `last_name` varchar(50) NOT NULL,
   `email` varchar(50) NOT NULL,
   `phone_number` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
 
 
 # table 5 : Kasunki Samarasekara
