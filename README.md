@@ -61,6 +61,24 @@ List and describe any forms that have been created as part of your project. Incl
 - Form 2: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
 - Form 3: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi).  | Validations Applied
 
+<<<<<<< HEAD
+=======
+- Form 2: (Created By Dalsi Samarathunga): Form Name:Gift Card Purchase Form 
+        Link to the related code file (github) https://github.com/findalsi/web_project_group22/blob/main/gift_card/gift_card.php
+        Link to the form (shell.hamk.fi).http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/gift_card.php  | Validations Applied
+
+- Form 3: (Created By Kasunki Samarasekara): Form Name: reservation 
+          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature3.php
+          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature3.php
+          Validations Applied - Yes
+
+- Form 4: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi). | Validations Applied
+
+- Form 5: (Created By Kasunki Samarasekara): Form Name: order_online 
+          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature5.php
+          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature5.php
+          Validations Applied - Yes
+>>>>>>> 702445672d204d1dd1f75632f48aeb1275897fd2
 
 ---
 
