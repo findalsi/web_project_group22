@@ -36,7 +36,7 @@ github link: https://github.com/findalsi/src/tree/main/dalsi_tasks/gift_card
 
 shell link:http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/
 
-Github link:https://github.com/findalsi/web_project_group22/tree/main
+github link:https://github.com/findalsi/web_project_group22/tree/main
 
 
 ### Feature 3
