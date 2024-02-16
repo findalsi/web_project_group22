@@ -39,9 +39,9 @@ Github link:https://github.com/findalsi/web_project_group22/tree/main
 
 Vantaa restaurant week allows customers to book discounted menu options offered for that particular time period. By creating a form we let customers to reserve tables by inputting name, email, date, time and the number of people come to dine in at the hotel premises. Then the input data will be stored in a database for later reference.
 
-github link - https://github.com/findalsi/web_project_group22/blob/main/feature3.php
+github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/feature%203
 
-shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
+shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature%203/
 
 ### Feature 4
 
@@ -55,10 +55,9 @@ shell.hamk.fi -  http://shell.hamk.fi/~haneeta23000/haneeta_tasks/my_project/fea
 
 This feature allows users to order via online and get food delivered to their doorsteps on the selected date and time. This form will display a message saying "Your order has been taken" When the customer press the submit button after inputting data into the relevant fields. 
 
-github link - https://github.com/findalsi/web_project_group22/blob/main/feature5.php
+github link - https://github.com/kasunki/src/tree/main/kasunki_tasks/feature%205
 
-shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature5.php
-
+shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature%205/
 
 
 
@@ -88,8 +87,8 @@ List and describe any forms that have been created as part of your project. Incl
         Link to the form (shell.hamk.fi).http://shell.hamk.fi/~dalsi23000/dalsi_tasks/crud1/gift_card.php  | Validations Applied
 
 - Form 3: (Created By Kasunki Samarasekara): Form Name: reservation 
-          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature3.php
-          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature3.php
+          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/feature%203/feature3.php
+          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature%203/feature3.php
           Validations Applied - Yes
 
 - Form 4: (Created By Ganegama Manage Haneeta): Form Name: sign_me_up
@@ -98,8 +97,8 @@ List and describe any forms that have been created as part of your project. Incl
            Validations Applied - Yes
 
 - Form 5: (Created By Kasunki Samarasekara): Form Name: order_online 
-          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature5.php
-          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature5.php
+          Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/feature%205/feature5.php
+          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature%205/feature5.php
           Validations Applied - Yes
 
 ---
@@ -113,9 +112,7 @@ List any tables that you have created in the project work
 - Table 2 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi).
 
 - Table 3 (Created By Kasunki Samarasekara): Table Name - Restaurant_week_reservation
-          Link to the related code file (github) 
-          Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_group22/feature3.php
-          Link to the table (shell.hamk.fi) - http://shell.hamk.fi/pma/index.php?route=/sql&pos=0&db=wp_kasunki23000&table=Restaurant_week_reservation
+          Link to the related code file (github) Link to the form (shell.hamk.fi) Link to the table (shell.hamk.fi)
 
 - Table 4 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi)
 
