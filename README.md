@@ -6,7 +6,7 @@
  purchase gifts cards for the valanteines day, special discounted offers for the restaurant week reservations 
  and also sign up for the newsletters for the upcoming events. 
 
-**Features**
+*Features*
 
 1. Feature 1 (Madusha Virajika Dissanayaka): Reservation tables
 2. Feature 2 (Kankani Pathirannehelage Dalsi Samarathunga): Purchasing gift cards
@@ -47,6 +47,9 @@ shell.hamk.fi - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/web_project_gro
 
 The feature sign me up allows to register by users to get notification of The Gourmet restuarant offers and promotions.
  The user have to fill first name, Last name, Email address and Phone number. 
+ github link - https://github.com/HaneetaSenadheera/src/blob/main/haneeta_tasks/my_project/feature4.php
+
+shell.hamk.fi -  http://shell.hamk.fi/~haneeta23000/haneeta_tasks/my_project/feature4.php
 
 ### Feature 5
 
@@ -66,7 +69,7 @@ List the database tables that are part of your project.
 - Table 1 (Created By Madusha Dissanayaka): reservations
 - Table 2 (Created By Dalsi Samarathunga): gift_cards 
 - Table 3 (Created By Kasunki Samarasekara): Restaurant_week_reservation
-- Table 4 (Created By Haneeta Senadheera): Sign Up
+- Table 4 (Created By Haneeta Senadheera): sign_me_up
 - Table 5 (Created By Kasunki Samarasekara): Order_online
 
 > Include the ER Diagram of the database. 
@@ -89,7 +92,10 @@ List and describe any forms that have been created as part of your project. Incl
           Link to the form (shell.hamk.fi) - http://shell.hamk.fi/~kasunki23000/kasunki_tasks/crud1/feature3.php
           Validations Applied - Yes
 
-- Form 4: (Created By): Form Name: Link to the related code file (github) | Link to the form (shell.hamk.fi). | Validations Applied
+- Form 4: (Created By Ganegama Manage Haneeta): Form Name: sign_me_up
+          Link to the related code file (github) https://github.com/HaneetaSenadheera/src/blob/main/haneeta_tasks/my_project/feature4.php
+           Link to the form (shell.hamk.fi). http://shell.hamk.fi/~haneeta23000/haneeta_tasks/my_project/feature4.php
+           Validations Applied - Yes
 
 - Form 5: (Created By Kasunki Samarasekara): Form Name: order_online 
           Link to the related code file (github) - https://github.com/kasunki/src/blob/main/kasunki_tasks/crud1/feature5.php
@@ -116,5 +122,3 @@ List any tables that you have created in the project work
 - Table 5 (Created By): Table Name | Link to the related code file (github) | Link to the table (shell.hamk.fi)
 
 ---
-
-
